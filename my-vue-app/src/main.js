@@ -35,7 +35,7 @@ const routes = [
     component: Error404Pages,
   },
    {
-   path: "/SignUpPages",
+   path: "/signuppages",
     name: "SignUp",
      component: SignUpPages,
    },

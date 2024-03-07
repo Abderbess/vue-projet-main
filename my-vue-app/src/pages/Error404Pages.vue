@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Welcome to Page 44erreyr</h1>
+      <h1>Welcome to Page 404error</h1>
     </div>
   </template>
   

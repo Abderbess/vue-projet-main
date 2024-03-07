@@ -250,7 +250,6 @@
         width: 850px;
         height: 600px;
         background: linear-gradient(45deg, #081b29, rgb(73, 73, 73));
-        /* border-bottom: 3px solid rgb(4, 0, 255); */
         transform-origin: bottom right;
         transform: rotate(10deg) skewY(40deg);
         transform: rotate(0) skewY(0);
@@ -266,7 +265,7 @@
         border-top: 3px solid #fff;
         transform-origin: bottom left;
         transform: rotate(-11deg) skewY(-41deg);
-        /* transform: rotate(0) skewY(0); */
     }
 
 </style>
+`

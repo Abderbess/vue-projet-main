@@ -25,7 +25,9 @@ body, html {
 
 .header {
   width: 100%;
-  background-image: linear-gradient(to left top, #1c253c, #20283e, #252b41, #292f43, #2d3246, #2b3457, #293667, #273778, #11369a, #0032bc, #0028db, #0509f9);}
+  background-image: linear-gradient(to left top, #242423f1, #3f3f3ef1, #686865f1);
+}
+
 .navbar {
   width: 100%;
 }
