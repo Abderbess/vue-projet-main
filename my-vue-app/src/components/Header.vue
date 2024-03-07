@@ -25,7 +25,7 @@ body, html {
 
 .header {
   width: 100%;
-  background-image: linear-gradient(to left top, #242423f1, #3f3f3ef1, #686865f1);
+  background-image: linear-gradient(to left top, #1c253c, #2f3751, #424a66, #575e7d, #6c7294, #707595, #747997, #787c98, #6b6e84, #5f6070, #52525d, #45454a);
 }
 
 .navbar {
@@ -46,8 +46,8 @@ body, html {
 }
 
 .logo-img {
-  width: 350px; /* ajustez selon la taille de votre logo */
-  margin-bottom: 10px; /* Ajout de marge en bas pour l'espace */
+  width: 350px; 
+  margin-bottom: 10px; 
 }
 
 .nav-links {

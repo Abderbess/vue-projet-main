@@ -40,7 +40,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
- background-image: linear-gradient(to left bottom, #1c253c, #20283e, #252b41, #292f43, #2d3246, #2b3457, #293667, #273778, #11369a, #0032bc, #0028db, #0509f9);
+ background-image: linear-gradient(to left bottom, #1c253c, #2f3751, #424a66, #575e7d, #6c7294, #707595, #747997, #787c98, #6b6e84, #5f6070, #52525d, #45454a);
 }
 
 .entreprise-info {
